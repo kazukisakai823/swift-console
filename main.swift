@@ -2,7 +2,7 @@
 //  main.swift
 //  ABC248
 //
-//  Created by 酒井和樹 on 2022/04/16.
+//  
 //
 
 import Foundation
